@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Ayush Arora
 
-🎓 Computer Science student at Simon Fraser University
-💻 Software Engineering | Algorithms | Systems  
+🎓 Computer Science student at Simon Fraser University <br>
+💻 Software Engineering | Algorithms | Systems <br>
 📍 Interested in Software Engineering & Internship Opportunities
 
 ---
