@@ -28,7 +28,6 @@ I care about:
 
 Always open to interesting projects, tech discussions, or collaboration opportunities.
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/AyushArora10hg)
 [![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:ayusharora10hg@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayusharora10hg/)
 
